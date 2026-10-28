@@ -3,3 +3,5 @@ Relaivy Planning
 2. Belajar bahasa pemrograman python
 3. Belajar bahasa pemrograman Javascript dan menguasai framework node.js
 4. belajar bahasa pemrograman c++
+5. Belajar ctf sedikit demi sedikit
+6. Berkolaborasi dengan berbagai expert dalam bidang cyber security

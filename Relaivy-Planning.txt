@@ -1,7 +1,7 @@
 Relaivy Planning
-1. Fundamental cyber seperti linux, command line, hardware dan networking
-2. Belajar bahasa pemrograman python
-3. Belajar bahasa pemrograman Javascript dan menguasai framework node.js
-4. belajar bahasa pemrograman c++
-5. Belajar ctf sedikit demi sedikit
-6. Berkolaborasi dengan berbagai expert dalam bidang cyber security
+Fundamental cyber seperti linux, command line, hardware dan networking
+Belajar bahasa pemrograman Javascript dan menguasai framework node.js
+Belajar bahasa pemrograman c++
+Belajar ctf sedikit demi sedikit
+Berkolaborasi dengan berbagai expert dalam bidang cyber security
+Belajar arduino

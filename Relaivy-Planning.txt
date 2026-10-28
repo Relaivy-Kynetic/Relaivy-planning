@@ -1,0 +1,5 @@
+Relaivy Planning
+1. Fundamental cyber seperti linux, command line, hardware dan networking
+2. Belajar bahasa pemrograman python
+3. Belajar bahasa pemrograman Javascript dan menguasai framework node.js
+4. belajar bahasa pemrograman c++
